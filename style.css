@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    color: #FF4081;
+}
+
+.love-button {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #FF4081;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
