@@ -1,5 +1,5 @@
 function displayLoveText() {
     var button = document.querySelector("button");
-    button.innerHTML = "Anh yêu em";
+    button.innerHTML = "Wo aii niiii <3";
     button.disabled = true;
 }
